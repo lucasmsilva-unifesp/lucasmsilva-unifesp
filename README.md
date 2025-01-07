@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas 👋
 
 - 🎓 Estou estudando na Universidade Federal de São Paulo
-- 🧑‍🎓 Estou no nono ano do curso de Engenharia de Computação
+- 🧑‍🎓 Estou no décimo semestre do curso de Engenharia de Computação
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.silva16@unifesp.br)
 
